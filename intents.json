@@ -1,0 +1,36 @@
+{"intents": [
+  {
+    "tag": "greetings",
+    "patterns": ["hello","hey","hi","good day","greetings","what's up","how is it going"],
+    "responses": ["Hello!","Hey!","What can I do for you"]},
+  {
+    "tag": "goodbye",
+    "patterns": ["good bye","see you later","i am leaving","have a good day","bye","cao","see ya"],
+    "responses": ["Sad to see you go :(","Talk to you later","Goodbye!"]
+
+  },
+  {
+    "tag": "name",
+    "patterns": ["what is your name","what should I cal you","who are you?","can you tell me your name"],
+    "responses": ["My name is Arthur","I'm Arthur the Comedian Bot"]
+  },
+  {
+    "tag": "random joke",
+    "patterns": ["please tell me a joke","please make me laugh","joke please","brighten my day"],
+    "responses": ["What do you call a bee in america? A USB","If you think nobody cares that your alive, try missing a couple of payments","Did you hear about the social studies teacher fired for being cross-eyed? He couldn’t control his pupils.","What is the difference between a calendar and you? A calendar has a date on Valentine’s day.","What’s Forrest Gump’s e-mail password at work? 1forrest1"]
+
+  },
+  {
+    "tag": "computer jokes",
+    "patterns": ["please tell me a computer joke","please tell me a joke about technology","please tell me a joke about my computer"],
+    "responses": ["Autocorrect can go straight to he’ll.","What is the biggest lie in the entire universe? I have read and agree to the Terms & Conditions.","The oldest computer can be traced back to Adam and Eve. It was an apple but with extremely limited memory. Just 1 byte. And then everything crashed.","How many programmers does it take to change a light bulb?\n\nNone. It’s a hardware problem.","What do you call a computer mouse that swears a lot? A cursor!","Why do Java developers wear glasses? Because they can’t C#.","Where did the software developer go?! I don’t know, he ransomware!","What does Steve Jobs like to order from McDonald's? A big Mac.","How does a computer get drunk? It takes screen shots."]
+
+  },
+
+  {
+    "tag": "maths time",
+    "patterns": ["time to be a nerd","i have a calculator","please tell me something intellectual","x and y","maths time","tell me something my maths teacher will hate"],
+    "responses": ["I saw my math teacher with a piece of graph paper yesterday. I think he must be plotting something.","What did the triangle say to the circle? “You’re pointless.","How does a mathematician plow fields? With a pro-tractor","What’s a math teacher’s favorite kind of tree? Geometry.","Why wasn’t the geometry teacher at school? Because she sprained her angle.","I had an argument with a 90° angle. It turns out it was right.","Why was the obtuse triangle always upset? Because it’s never right.","Why was math class so long? The teacher kept going off on a tangent.","What are ten things you can always count on? Your fingers.","What do you get when you cross a dog and a calculator? A friend you can count on.","What do you get if you divide the circumference of a jack-o-lantern by its diameter? Pumpkin Pi."]
+  }
+
+]}
